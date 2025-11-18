@@ -1,0 +1,22 @@
+export const excuses = [
+    "My brain woke up but my body didn't.",
+    "I deserve financial compensation for today.",
+    "I’m not lazy, I'm in energy-saving mode.",
+    "The universe is testing me again.",
+    "My WiFi and my willpower both disconnected.",
+    "Today is not my day and tomorrow isn’t looking great either.",
+    "Honestly, I just need a nap and a hug.",
+    "Mercury is in retrograde… probably.",
+    "My last remaining brain cell took PTO.",
+    "I'm running on vibes, and the vibes are off.",
+    "Motivation.exe has stopped working.",
+    "This feels like a side quest I didn’t accept.",
+    "The assignment was due? Since when?",
+    "I would, but emotionally I can't.",
+    "Everything is fine. (It's not fine.)",
+    "I woke up instantly tired.",
+    "I am currently at capacity for nonsense.",
+    "My schedule is full of chaos today.",
+    "I need a refund for this day.",
+    "The plot twist today was unnecessary."
+];
